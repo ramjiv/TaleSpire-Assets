@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3822962949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dac80cd5c1c42f56f8dbe61b89c4f6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1a01cdda0da7f2a1cf4afe76f4bb3c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/ybot/info.txt
+- Assets/Models/ybot/ybot@Idle.fbx
+Dependencies: []

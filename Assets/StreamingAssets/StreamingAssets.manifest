@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 249515810
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 44_kenku_ranger_2
+      Dependencies: {}
+    Info_1:
+      Name: spellanimations
+      Dependencies: {}
+    Info_2:
+      Name: xbot
+      Dependencies: {}
+    Info_3:
+      Name: ybot
+      Dependencies: {}

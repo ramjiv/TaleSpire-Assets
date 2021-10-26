@@ -1,0 +1,7 @@
+{
+  "kind": "Creature",
+  "groupName": "Kenku",
+  "description": "Kenku Ranger",
+  "name": "Kenku Ranger",
+  "tags": "Humanoid, Kenku"
+}
